@@ -6,3 +6,10 @@ url: https://faltfe.github.io/jekyll-test
 
 aux_links:
   Template Repository: https://github.com/faltfe/jekyll-test
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
